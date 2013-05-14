@@ -1,0 +1,121 @@
+.btn { 
+  margin-top: -50px;
+	margin-left: 95px;
+	width: 50px;
+	height: 50px;
+	overflow: hidden;
+}
+#Btns {	
+	width: 200px;  
+	-webkit-transition: margin-left 0.5s linear;
+}
+#lArrow {
+	margin-left: 20px;
+}
+#rArrow {
+	margin-top: -50px;
+	margin-left: 165px;
+}
+#conteiner {
+}
+#start {
+	width: 240px;
+	height: 400px;
+	padding-left: 50px;	
+}
+#pet1 {
+	width: 240px;
+	height: 400px;		
+}
+#pet2 {
+	width: 240px;
+	height: 400px;		
+}
+#pet3 {
+	width: 240px;
+	height: 400px;
+}
+#pet4 {
+	width: 240px;
+	height: 400px;		
+}
+#pet5 {
+	width: 240px;
+	height: 400px;
+}
+#egg1 {
+	width: 240px;
+	height: 400px;
+	margin-top: -2000px;
+	margin-left: 240px;	
+}
+#egg2 {
+	width: 240px;
+	height: 400px;
+	margin-left: 240px;	
+}
+#egg3 {
+	width: 240px;
+	height: 400px;
+	margin-left: 240px;	
+}
+#egg4 {
+	width: 240px;
+	height: 400px;	
+	margin-left: 240px;	
+}
+#egg5 {
+	width: 240px;
+	height: 400px;
+	margin-left: 240px;	
+}
+.start {
+	margin-top: 0px;	
+}
+.pet1 {
+	margin-top: -400px;
+}
+.pet2 {
+	margin-top: -800px;
+}
+.pet3 {
+	margin-top: -1200px;
+}
+.pet4 {
+	margin-top: -1600px;
+}
+.pet5 {
+	margin-top: -2000px;
+}
+.egg1 {
+	margin-top: -400px;
+	margin-left: -240px;
+}
+.egg2 {
+	margin-top: -800px;
+	margin-left: -240px;
+}
+.egg3 {
+	margin-top: -1200px;
+	margin-left: -240px;
+}
+.egg4 {
+	margin-top: -1600px;
+	margin-left: -240px;
+}
+.egg5 {
+	margin-top: -2000px;
+	margin-left: -240px;
+}
+.im0 {
+	margin-left: -4px;
+}
+.im1 {
+	margin-left: -57px;
+}
+.im2 {
+	margin-left: -110px;
+}
+.im3 {
+	margin-left: -165px;
+}
